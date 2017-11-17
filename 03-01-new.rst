@@ -1,0 +1,32 @@
+建立新問卷
+----------
+
+由登入後畫面「建立一個新問卷」點進去後，就進入建立問卷的畫面。
+
+.. figure:: images/03-01-new-survey.png
+    :alt: 建立問卷的畫面
+    :scale: 60%
+
+    建立問卷的畫面
+
+在這裏我們填上問卷標題名稱（例如：「創新教學實施課後評量」），先點選
+「Sample Questions」建立範例題，然後點按右上角「儲存並關閉」。
+這樣就建好了一份簡單的問卷。
+
+.. figure:: images/03-01-new-survey-done.png
+    :alt: 建立好的新問卷
+    :scale: 60%
+
+    建立好的新問卷
+
+從左上角「 :index:`預覽問卷 <預覽; 問卷>` 」，可以看得到問卷長什麼樣
+子。
+
+.. figure:: images/03-01-new-survey-preview.png
+    :alt: 新問卷的預覽
+    :scale: 60%
+
+    新問卷的預覽
+
+可以看到現在問卷只有一題，就是剛才建立的範例題「A first example
+question.  Please answer this question.」。

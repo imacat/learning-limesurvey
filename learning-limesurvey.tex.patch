@@ -1,0 +1,35 @@
+diff -r -u a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesurvey.tex
+--- a/_build/latex/learning-limesurvey.tex	2017-11-17 09:54:11.711630680 +0800
++++ b/_build/latex/learning-limesurvey.tex	2017-11-17 10:33:51.263713553 +0800
+@@ -36,12 +36,12 @@
+ \setCJKsansfont{AR PL UKai TW}
+ 
+ 
+-\title{台師大問卷調查平台LimeSurvey學習手冊}
++\title{\huge 台師大問卷調查平台LimeSurvey學習手冊}
+ \date{11月 17, 2017}
+ \release{1.0}
+ \author{楊士青}
+ \newcommand{\sphinxlogo}{}
+-\renewcommand{\releasename}{釋出}
++\renewcommand{\releasename}{版本}
+ \makeindex
+ 
+ \makeatletter
+@@ -149,6 +149,7 @@
+ \begin{document}
+ 
+ \maketitle
++\title{台師大問卷調查平台LimeSurvey學習手冊}
+ \tableofcontents
+ \phantomsection\label{index::doc}
+ 
+@@ -181,7 +182,7 @@
+ 
+ \begin{threeparttable}
+ \capstart\caption{問卷調查平台比較}\label{01-intro:id5}
+-\noindent\begin{tabulary}{\linewidth}{|L|L|L|L|L|}
++\noindent\begin{tabulary}{\linewidth}{|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|}
+ \hline
+ \textsf{\relax \unskip}\relax &\textsf{\relax 
+ LimeSurvey
