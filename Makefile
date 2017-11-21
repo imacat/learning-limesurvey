@@ -15,8 +15,6 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
 # My local extension
-REMOTEHOST		= uru
-REMOTEDIR		= /srv/www/limesurvey-learning
 PROJNAME		= learning-limesurvey
 PROJVER			= 2.0
 
@@ -49,6 +47,7 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 	@echo "  dummy      to check syntax errors of document sources"
+	@echo "  dist		to create a document source distribution"
 
 .PHONY: clean
 clean:
@@ -233,17 +232,7 @@ dummy:
 	@echo "Build finished. Dummy builder generates no files."
 
 dist:
-	rm -rf $(PROJNAME)-$(PROJVER) _build/$(PROJNAME)-$(PROJVER).zip
-	mkdir $(PROJNAME)-$(PROJVER) $(PROJNAME)-$(PROJVER)/_build
-	cp -fpR *.rst images Makefile make.bat conf.py $(PROJNAME).tex.patch participants-example.csv $(PROJNAME)-$(PROJVER)/
-	zip -r _build/$(PROJNAME)-$(PROJVER).zip $(PROJNAME)-$(PROJVER)
-	rm -rf $(PROJNAME)-$(PROJVER)
-
-allsync: clean html latexpdf dist
-	utimedir . _build/html/_sources
-	utimedir images _build/html/_images
-	utimedir images _build/latex
-	ssh $(REMOTEHOST) "rm -rf /tmp/$(PROJNAME)"
-	scp -p -r _build/html $(REMOTEHOST):/tmp/$(PROJNAME)/
-	scp -p participants-example.csv _build/latex/$(PROJNAME).pdf _build/$(PROJNAME)-$(PROJVER).zip $(REMOTEHOST):/tmp/$(PROJNAME)/
-	ssh $(REMOTEHOST) "rm -rf $(REMOTEDIR)/* && mv /tmp/$(PROJNAME)/* $(REMOTEDIR) && rm -f /tmp/$(PROJNAME)/.buildinfo && rmdir /tmp/$(PROJNAME)"
+	rm -rf $(BUILDDIR)/dist
+	mkdir $(BUILDDIR)/dist $(BUILDDIR)/dist/$(PROJNAME)-$(PROJVER)
+	cp -fpR *.rst images Makefile make.bat conf.py $(PROJNAME).tex.patch participants-example.csv $(BUILDDIR)/dist/$(PROJNAME)-$(PROJVER)/
+	cd $(BUILDDIR)/dist && zip -r $(PROJNAME)-$(PROJVER).zip $(PROJNAME)-$(PROJVER) && cd ../..
