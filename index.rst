@@ -6,7 +6,7 @@
 台師大問卷調查平台LimeSurvey學習手冊
 ====================================
 
-版權所有 |copy| 2007 楊士青。
+版權所有 |copy| 2017 楊士青。
 
 「台師大問卷調查平台LimeSurvey學習手冊」由
 `楊士青 <imacat@ntnu.edu.tw>`_ 撰寫，採用
@@ -18,11 +18,13 @@
 接跳到您有興趣的章節，不需要依序閱讀。
 
 本學習手冊有
-`線上版學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/>`_ 及可下載印刷的
+`線上版學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/>`_ 及可下載雙面印刷的
 `PDF版學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey.pdf>`_ 
-兩種版本。並有
+兩種版本，並有
 `填答者名單CSV檔範例 <http://limesurvey.iro.ntnu.edu.tw/learning/participants-example.csv>`_
-可下載參考。台師大問卷調查平台上，有
+可下載參考，亦歡迎下載參閱
+`學習手冊的reStructuredText原始檔 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey-2.0.zip>`_
+。台師大問卷調查平台上，有
 `本學習手冊上的範例問卷 <http://limesurvey.iro.ntnu.edu.tw/index.php/161873>`_
 ，歡迎參閱。
 

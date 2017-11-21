@@ -14,6 +14,12 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
+# My local extension
+REMOTEHOST		= uru
+REMOTEDIR		= /srv/www/limesurvey-learning
+PROJNAME		= learning-limesurvey
+PROJVER			= 2.0
+
 .PHONY: help
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
@@ -129,7 +135,7 @@ epub3:
 .PHONY: latex
 latex:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
-	patch -p 1 < learning-limesurvey.tex.patch
+	patch -p 1 < $(PROJNAME).tex.patch
 	@echo
 	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex."
 	@echo "Run \`make' in that directory to run these through (pdf)latex" \
@@ -138,7 +144,7 @@ latex:
 .PHONY: latexpdf
 latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
-	patch -p 1 < learning-limesurvey.tex.patch
+	patch -p 1 < $(PROJNAME).tex.patch
 	@echo "Running LaTeX files through pdflatex..."
 	$(MAKE) -C $(BUILDDIR)/latex all-pdf
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
@@ -225,3 +231,19 @@ dummy:
 	$(SPHINXBUILD) -b dummy $(ALLSPHINXOPTS) $(BUILDDIR)/dummy
 	@echo
 	@echo "Build finished. Dummy builder generates no files."
+
+dist:
+	rm -rf $(PROJNAME)-$(PROJVER) _build/$(PROJNAME)-$(PROJVER).zip
+	mkdir $(PROJNAME)-$(PROJVER) $(PROJNAME)-$(PROJVER)/_build
+	cp -fpR *.rst images Makefile make.bat conf.py $(PROJNAME).tex.patch participants-example.csv $(PROJNAME)-$(PROJVER)/
+	zip -r _build/$(PROJNAME)-$(PROJVER).zip $(PROJNAME)-$(PROJVER)
+	rm -rf $(PROJNAME)-$(PROJVER)
+
+allsync: clean html latexpdf dist
+	utimedir . _build/html/_sources
+	utimedir images _build/html/_images
+	utimedir images _build/latex
+	ssh $(REMOTEHOST) "rm -rf /tmp/$(PROJNAME)"
+	scp -p -r _build/html $(REMOTEHOST):/tmp/$(PROJNAME)/
+	scp -p participants-example.csv _build/latex/$(PROJNAME).pdf _build/$(PROJNAME)-$(PROJVER).zip $(REMOTEHOST):/tmp/$(PROJNAME)/
+	ssh $(REMOTEHOST) "rm -rf $(REMOTEDIR)/* && mv /tmp/$(PROJNAME)/* $(REMOTEDIR) && rm -f /tmp/$(PROJNAME)/.buildinfo && rmdir /tmp/$(PROJNAME)"
