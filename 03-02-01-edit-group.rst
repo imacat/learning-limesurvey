@@ -3,7 +3,7 @@
 
 在問卷編輯頁面上，點選左邊「List question groups」，進入題組列表。在右
 邊題組列表，找到預設範例題組「My First Question Group」，按右邊的鉛筆
-按鈕編輯群組。
+按鈕 :index:`編輯群組 <pair: 題組; 編輯>` 。
 
 .. figure:: images/03-02-01-edit-group-01.png
     :alt: 左側的題組列表

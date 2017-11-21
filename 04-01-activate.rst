@@ -1,7 +1,8 @@
 啟用問卷
 --------
 
-從問卷左上角按「Active this survey」啟用問卷開始施測。
+從問卷左上角按「Active this survey」 :index:`啟用問卷 <問卷; 施測>`
+開始施測。
 
 .. figure:: images/04-01-activate-01.png
     :alt: 按下「Active this survey」啟用問卷
