@@ -236,3 +236,5 @@ dist:
 	mkdir $(BUILDDIR)/dist $(BUILDDIR)/dist/$(PROJNAME)-$(PROJVER)
 	cp -fpR *.rst images Makefile make.bat conf.py $(PROJNAME).tex.patch participants-example.csv $(BUILDDIR)/dist/$(PROJNAME)-$(PROJVER)/
 	cd $(BUILDDIR)/dist && zip -r $(PROJNAME)-$(PROJVER).zip $(PROJNAME)-$(PROJVER) && cd ../..
+	@echo
+	@echo "Build finished. The distribution is in _build/dist."
