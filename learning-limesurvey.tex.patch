@@ -2,7 +2,7 @@ diff -r -u a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesu
 --- a/_build/latex/learning-limesurvey.tex	2017-11-22 10:38:01.965578637 +0800
 +++ b/_build/latex/learning-limesurvey.tex	2017-11-22 10:39:03.497580780 +0800
 @@ -41,7 +41,7 @@
- \release{2.0}
+ \release{2.1}
  \author{楊士青}
  \newcommand{\sphinxlogo}{}
 -\renewcommand{\releasename}{釋出}
@@ -24,8 +24,8 @@ diff -r -u a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesu
  
  \begin{threeparttable}
  \capstart\caption{問卷調查平台比較}\label{01-intro:id5}
--\noindent\begin{tabulary}{\linewidth}{|L|L|L|L|L|}
-+\noindent\begin{tabulary}{\linewidth}{|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|m{0.17\linewidth}|}
+-\noindent\begin{tabulary}{\linewidth}{|L|L|L|L|L|L|}
++\noindent\begin{tabulary}{\linewidth}{|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|}
  \hline
  \textsf{\relax \unskip}\relax &\textsf{\relax 
  LimeSurvey
