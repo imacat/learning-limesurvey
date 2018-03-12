@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'台師大問卷調查平台LimeSurvey學習手冊'
-copyright = u'2017, 楊士青'
+copyright = u'2017-2018, 楊士青'
 author = u'楊士青 <imacat@ntnu.edu.tw>'
 
 # The version info for the project you're documenting, acts as replacement for
