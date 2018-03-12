@@ -26,7 +26,7 @@
 可供下載，並有
 `填答者名單CSV檔範例 <http://limesurvey.iro.ntnu.edu.tw/learning/participants-example.csv>`_
 可下載參考，亦歡迎下載參閱
-`學習手冊的Sphinx/reStructuredText原始檔 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey-2.2.zip>`_
+`學習手冊的Sphinx/reStructuredText原始檔 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey-3.0.zip>`_
 。台師大問卷調查平台上，有
 `本學習手冊上的範例問卷 <http://limesurvey.iro.ntnu.edu.tw/index.php/161873>`_
 ，歡迎參閱。

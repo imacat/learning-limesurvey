@@ -2,7 +2,7 @@ diff -r -u a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesu
 --- a/_build/latex/learning-limesurvey.tex	2017-11-22 10:38:01.965578637 +0800
 +++ b/_build/latex/learning-limesurvey.tex	2017-11-22 10:39:03.497580780 +0800
 @@ -41,7 +41,7 @@
- \release{2.2}
+ \release{3.0}
  \author{楊士青}
  \newcommand{\sphinxlogo}{}
 -\renewcommand{\releasename}{釋出}
