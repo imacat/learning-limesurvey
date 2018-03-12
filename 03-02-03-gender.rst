@@ -1,23 +1,16 @@
 第一個問題：性別
 ################
 
-從左邊點選「列出問題」後，從左上方的
-「 :index:`增加新問題 <pair: 問題; 建立>` 」點進去，建立新問題，就會進
-入問卷問題的編輯頁面。
+在左側欄的問卷結構中，點選上方的
+「 :index:`增加新問題 <pair: 問題; 建立>` 」，就會進入問題的編輯頁面。
 
 .. figure:: images/03-02-03-gender-01.png
-    :alt: 點選左邊的「列出問題」
+    :alt: 點選左側欄問卷結構上方的「增加新問題」
     :scale: 60%
 
-    點選左邊的「列出問題」
+    點選左側欄問卷結構上方的「增加新問題」
 
 .. figure:: images/03-02-03-gender-02.png
-    :alt: 點選左上方的「增加新問題」
-    :scale: 60%
-
-    點選左上方的「增加新問題」
-
-.. figure:: images/03-02-03-gender-03.png
     :alt: 問卷問題編輯頁面
     :scale: 60%
 
@@ -26,7 +19,7 @@
 「編號」是題目的代號，須由A-Z英文字母開始，可以用A-Z英文字母或0-9數字
 ，不可重複。一般我們用q01代表第一題，q02代表第二題，依此類推。
 
-.. figure:: images/03-02-03-gender-03-01.png
+.. figure:: images/03-02-03-gender-02-01.png
     :alt: 問題的編號
     :scale: 60%
 
@@ -35,44 +28,50 @@
 在「問題」欄位，填上實際的問卷題目。第一題我們先問填答者的性別，請填
 上「1.請選擇您的性別」。
 
-.. figure:: images/03-02-03-gender-03-02.png
-    :alt: 問題的內容
+.. figure:: images/03-02-03-gender-02-02.png
+    :alt: 問題的主文
     :scale: 60%
 
-    問題的內容
+    問題的主文
 
-「題目類型」拉下來，會有各種題型可選擇。滑鼠移動到題型，還會有題型預
- 覽。
+點按「題目類型」，會列出各種題型可選擇。點選題型，會有題型預覽。
 
-.. figure:: images/03-02-03-gender-03-03-01.png
-    :alt: 下拉式列表題型預覽
+.. figure:: images/03-02-03-gender-02-03-01.png
+    :alt: 題型選擇
     :scale: 60%
 
-    下拉式列表題型預覽
+    題型選擇
 
-.. figure:: images/03-02-03-gender-03-03-02.png
-    :alt: 單選題型預覽
+.. figure:: images/03-02-03-gender-02-03-02.png
+    :alt: 下拉式列表題型
     :scale: 60%
 
-    單選題型預覽
+    下拉式列表題型
 
-.. figure:: images/03-02-03-gender-03-03-03.png
-    :alt: 李克特氏五點量表題型預覽
+.. figure:: images/03-02-03-gender-02-03-03.png
+    :alt: 單選題型
     :scale: 60%
 
-    李克特氏五點量表題型預覽
+    單選題型
 
-這一題我們題型選「 :index:`性別 <題型; 性別>` 」。
-
-.. figure:: images/03-02-03-gender-03-03.png
-    :alt: 性別題型預覽
+.. figure:: images/03-02-03-gender-02-03-04.png
+    :alt: 李克特氏五點量表題型
     :scale: 60%
 
-    性別題型預覽
+    李克特氏五點量表題型
 
-基本資料都是必答題，請點選開啟「必須回應」。按右上角「儲存並關閉」。
+這一題我們題型選「其他類型問題」裏的「 :index:`性別 <題型; 性別>` 」。
+按右下方的「Select this」確定題型。
 
-.. figure:: images/03-02-03-gender-03.png
+.. figure:: images/03-02-03-gender-02-03.png
+    :alt: 選擇性別題型
+    :scale: 60%
+
+    選擇性別題型
+
+基本資料都是必答題，請點選開啟「必須回應」。按右上角「儲存」。
+
+.. figure:: images/03-02-03-gender-02.png
     :alt: 問卷問題編輯頁面
     :scale: 60%
 
@@ -81,13 +80,13 @@
 建立好問題後，我們可以按上面的「Preview Question」，
 :index:`預覽 <預覽; 問題>` 一下我們的問題長什麼樣子。
 
-.. figure:: images/03-02-03-gender-04.png
+.. figure:: images/03-02-03-gender-03.png
     :alt: 點選「Preview Question」
     :scale: 60%
 
     點選「Preview Question」
 
-.. figure:: images/03-02-03-gender-05.png
+.. figure:: images/03-02-03-gender-04.png
     :alt: 性別題型預覽
     :scale: 60%
 
