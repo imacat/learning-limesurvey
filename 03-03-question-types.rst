@@ -10,10 +10,10 @@
 「貳、課後評量」，然後按右上角「儲存」。
 
 .. figure:: images/03-03-new-group-01.png
-    :alt: 點按新增群組
+    :alt: 點按增加群組
     :scale: 60%
 
-    點按新增群組
+    點按增加群組
 
 .. figure:: images/03-03-new-group-02.png
     :alt: 新增群組頁面
