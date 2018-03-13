@@ -9,30 +9,43 @@
 
 每天的上網時間最少0小時，最多24小時，同樣可以容許小數點。
 
-在新增問卷問題的編輯頁面上，編號填上「q05」，問題填上「5.過去七天每天
-上網幾小時？」題型往下拉選「多重數值輸入」，題組選「貳、課後評量」，
-開啟「必須回應」，然後按下「Advanced settings」。
+在新增問卷問題的編輯頁面上，編號填上「q05」，問題填上
+「5.過去七天每天上網幾小時？」題型選擇「其他類型問題」裏的
+「多重數值輸入」，題組選「貳、課後評量」，開啟「必須回應」。
 
 .. figure:: images/03-03-02-multi-numbers-01.png
-    :alt: 問題五：多重數值題型
+    :alt: 問題五：多重數值題目
     :scale: 60%
 
-    問題五：多重數值題型
-
-接著往下拉到「輸入」。請在最小值填上0，最大值填上24。因為可能會有
-3.5小時，不開啟「只能整數」。最後按「儲存並關閉」。
+    問題五：多重數值題目
 
 .. figure:: images/03-03-02-multi-numbers-02.png
+    :alt: 選擇多重數值題型
+    :scale: 60%
+
+    選擇多重數值題型
+
+往下拉找到「輸入」展開。請在最小值填上0，最大值填上24。因為可能會有
+3.5小時，不開啟「只能整數」。最後按「儲存」。
+
+.. figure:: images/03-03-02-multi-numbers-03.png
+    :alt: 展開「輸入」設定
+    :scale: 60%
+
+    展開「輸入」設定
+
+.. figure:: images/03-03-02-multi-numbers-04.png
     :alt: 限制數值填答範圍
     :scale: 60%
 
     限制數值填答範圍
 
-建好問題後，會提醒你還沒輸入子問題：「You need to add subquestions to
-this question」。可以直接點選「You need to add subquestions to this
-question」進入，也可由上方「編輯子問題」進入，輸入子問題。
+建好問題後，會提醒你還沒輸入子問題：
+「You need to add subquestions to this question」。可以直接點選
+「You need to add subquestions to this question」進入，也可由上方
+「編輯子問題」進入，輸入子問題。
 
-.. figure:: images/03-03-02-multi-numbers-03.png
+.. figure:: images/03-03-02-multi-numbers-05.png
     :alt: 建好多重數值題型後，輸入子問題
     :scale: 60%
 
@@ -51,20 +64,20 @@ question」進入，也可由上方「編輯子問題」進入，輸入子問題
 
 然後按「替換」。按右上方「儲存並關閉」。
 
-.. figure:: images/03-03-02-multi-numbers-04.png
+.. figure:: images/03-03-02-multi-numbers-06.png
     :alt: 按「快速增加」一次輸入所有子問題
     :scale: 60%
 
     按「快速增加」一次輸入所有子問題
 
-.. figure:: images/03-03-02-multi-numbers-05.png
+.. figure:: images/03-03-02-multi-numbers-07.png
     :alt: 輸入所有子問題
     :scale: 60%
 
     輸入所有子問題
 
-.. figure:: images/03-03-02-multi-numbers-06.png
-    :alt: 多重數值題型預覽
+.. figure:: images/03-03-02-multi-numbers-08.png
+    :alt: 多重數值題目預覽
     :scale: 60%
 
-    多重數值題型預覽
+    多重數值題目預覽
