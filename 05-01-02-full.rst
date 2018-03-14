@@ -3,14 +3,14 @@
 
 LimeSurvey也提供完整的描述統計報表。
 
-從問卷頁面右上選單「回應」下的「回應&統計」點進去，然後點選上方選單的
+從問卷頁面上方選單「回應」下的「回應&統計」點進去，然後點選上方選單的
 「統計」。
 
 .. figure:: images/05-01-01-simple-01.png
-    :alt: 問卷頁面右上選單「回應」下的「回應&統計」
+    :alt: 問卷頁面上方選單「回應」下的「回應&統計」
     :scale: 60%
 
-    問卷頁面右上選單「回應」下的「回應&統計」
+    問卷頁面上方選單「回應」下的「回應&統計」
 
 .. figure:: images/05-01-01-simple-02.png
     :alt: 回應與統計頁面選單上的「統計」
@@ -34,16 +34,22 @@ LimeSurvey也提供完整的描述統計報表。
     勾選題組二的所有問題
 
 .. figure:: images/05-01-02-full-03.png
-    :alt: 勾選題組三的所有問題，查看統計
+    :alt: 勾選題組三的所有問題
     :scale: 60%
 
-    勾選題組三的所有問題，查看統計
+    勾選題組三的所有問題
+
+.. figure:: images/05-01-02-full-04.png
+    :alt: 點按最上方的「查看統計」
+    :scale: 60%
+
+    點按最上方的「查看統計」
 
 .. index:: 題型; 性別
 
 .. index:: 題型; 單選
 
-.. figure:: images/05-01-02-full-04.png
+.. figure:: images/05-01-02-full-05.png
     :alt: 描述統計報表：類別變數的次數分配表
     :scale: 60%
 
@@ -51,7 +57,7 @@ LimeSurvey也提供完整的描述統計報表。
 
 .. index:: 題型; 數值
 
-.. figure:: images/05-01-02-full-05.png
+.. figure:: images/05-01-02-full-06.png
     :alt: 描述統計報表：連續變數的描述統計
     :scale: 60%
 
@@ -59,7 +65,7 @@ LimeSurvey也提供完整的描述統計報表。
 
 .. index:: 題型; 李克特氏五點量表
 
-.. figure:: images/05-01-02-full-06.png
+.. figure:: images/05-01-02-full-07.png
     :alt: 描述統計報表：李克特氏五點量表
     :scale: 60%
 
@@ -67,7 +73,7 @@ LimeSurvey也提供完整的描述統計報表。
 
 .. index:: 題型; 排序
 
-.. figure:: images/05-01-02-full-07.png
+.. figure:: images/05-01-02-full-08.png
     :alt: 描述統計報表：排序題
     :scale: 60%
 
@@ -75,7 +81,7 @@ LimeSurvey也提供完整的描述統計報表。
 
 .. index:: 題型; 多行文字
 
-.. figure:: images/05-01-02-full-08.png
+.. figure:: images/05-01-02-full-09.png
     :alt: 描述統計報表：自由填答內容
     :scale: 60%
 
