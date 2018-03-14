@@ -9,9 +9,9 @@
 
 每天的上網時間最少0小時，最多24小時，同樣可以容許小數點。
 
-在新增問卷問題的編輯頁面上，編號填上「q05」，問題填上「5.過去七天每天
-上網幾小時？」題型往下拉選「多重數值輸入」，題組選「貳、課後評量」，
-開啟「必須回應」，然後按下「Advanced settings」。
+在新增問卷問題的編輯頁面上，編號填上「q05」，問題填上
+「5.過去七天每天上網幾小時？」題型往下拉選「多重數值輸入」，題組選
+「貳、課後評量」，開啟「必須回應」，然後按下「Advanced settings」。
 
 .. figure:: images/03-03-02-multi-numbers-01.png
     :alt: 問題五：多重數值題型
@@ -28,9 +28,10 @@
 
     限制數值填答範圍
 
-建好問題後，會提醒你還沒輸入子問題：「You need to add subquestions to
-this question」。可以直接點選「You need to add subquestions to this
-question」進入，也可由上方「編輯子問題」進入，輸入子問題。
+建好問題後，會提醒你還沒輸入子問題：
+「You need to add subquestions to this question」。可以直接點選
+「You need to add subquestions to this question」進入，也可由上方
+「編輯子問題」進入，輸入子問題。
 
 .. figure:: images/03-03-02-multi-numbers-03.png
     :alt: 建好多重數值題型後，輸入子問題

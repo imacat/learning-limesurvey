@@ -11,8 +11,9 @@
 大九。我們提供大一到大四，四個選項，並且多一個「其他」選項讓使用者自己
 填寫。
 
-在新增問卷問題的編輯頁面上，編號填上「q03」，問題填上「3.請選擇您的年
-級。」題型往下拉選「列表（單選）」，開啟「選項『其他』」和「必須回應」。
+在新增問卷問題的編輯頁面上，編號填上「q03」，問題填上
+「3.請選擇您的年級。」題型往下拉選「列表（單選）」，開啟
+「選項『其他』」和「必須回應」。
 
 .. figure:: images/03-02-05-single-01.png
     :alt: 問題三：單選題型
@@ -20,8 +21,8 @@
 
     問題三：單選題型
 
-按進階設定「Advanced settings」進去，往下拉找到「邏輯」下的「『其他：』
-必填的評論：」點按開啟。答題選擇其他時，必須填上幾年級。
+按進階設定「Advanced settings」進去，往下拉找到「邏輯」下的
+「『其他：』必填的評論：」點按開啟。答題選擇其他時，必須填上幾年級。
 
 按右上角「儲存並關閉」。
 
@@ -37,9 +38,10 @@
 
     單選題型的『其他：』必填的評論
 
-建好問題後，會提醒你還沒輸入選項：「You need to add answer options to
-this question」。可以直接點選「You need to add answer options to this
-question」進入，也可由上方「編輯答案選項」進入，輸入選項。
+建好問題後，會提醒你還沒輸入選項：
+「You need to add answer options to this question」。可以直接點選
+「You need to add answer options to this question」進入，也可由上方
+「編輯答案選項」進入，輸入選項。
 
 .. figure:: images/03-02-05-single-04.png
     :alt: 建好單選題型後，輸入選項
