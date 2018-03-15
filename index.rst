@@ -34,6 +34,8 @@
 更多LimeSurvey的進階功能，請參閱
 `LimeSurvey官方線上說明 <https://manual.limesurvey.org/LimeSurvey_Manual>`_ 。
 
+註：舊版LimeSurvey 2，請參閱
+`舊版LimeSurvey 2學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/v2>`_ 。
 
 .. toctree::
     :caption: 目錄
