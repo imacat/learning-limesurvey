@@ -289,7 +289,7 @@ latex_documents = [
 
 # Documents to append as an appendix to all manuals.
 #
-latex_appendices = ['apx-01-copy']
+latex_appendices = ['apx-01-copy', 'apx-02-ab-testing']
 
 # It false, will not define \strong, \code, 	itleref, \crossref ... but only
 # \sphinxstrong, ..., \sphinxtitleref, ... To help avoid clash with user added

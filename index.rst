@@ -56,7 +56,7 @@
 		:caption: 附錄
 		
 		apx-01-copy
-..		apx-02-ab-testing
+		apx-02-ab-testing
 	
     索引
     ====
