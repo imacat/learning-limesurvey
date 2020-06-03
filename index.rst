@@ -1,40 +1,42 @@
-.. 台師大問卷調查平台LimeSurvey學習手冊 documentation master file, created by
+.. LimeSurvey學習手冊 documentation master file, created by
    sphinx-quickstart on Wed Nov 15 15:39:50 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-台師大問卷調查平台LimeSurvey學習手冊
+LimeSurvey學習手冊
 ====================================
 
-版權所有 |copy| 2017-2018 楊士青。
+版權所有 |copy| 2017-2020 依瑪貓， 2017-2018 國立臺灣師範大學， 2020 智新資通。
 
-「台師大問卷調查平台LimeSurvey學習手冊」由
-`楊士青 <imacat@ntnu.edu.tw>`_ 撰寫，採用
-`創用 CC 姓名標示 3.0 Unported 授權條款 <https://creativecommons.org/licenses/by/3.0/>`_
+「LimeSurvey學習手冊」由
+`依瑪貓 <imacat@steps.com.tw>`_ 撰寫，採用
+`創用 CC 姓名標示 4.0 Unported 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
 授權。
 
-本學習手冊以一個常用的教學研究範例，帶領學習者一步步操作，熟悉使用台師
-大問卷調查平台LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
+本學習手冊以一個常用的問卷調查範例，帶領學習者一步步操作，熟悉使用
+LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
 接跳到您有興趣的章節，不需要依序閱讀。
 
 本學習手冊有
-`線上版學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/>`_
+`線上版學習手冊 <http://limesurvey.imacat.idv.tw/learning/>`_
 ，也提供雙面印刷的
-`PDF版學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey.pdf>`_
+`PDF版學習手冊 <http://limesurvey.imacat.idv.tw/learning/learning-limesurvey.pdf>`_
 ，及適合手機平板閱讀的
-`EPUB學習手冊電子書 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey.epub>`_
+`EPUB學習手冊電子書 <http://limesurvey.imacat.idv.tw/learning/learning-limesurvey.epub>`_
 可供下載，並有
-`填答者名單CSV檔範例 <http://limesurvey.iro.ntnu.edu.tw/learning/participants-example.csv>`_
+`參與者名單CSV檔範例 <http://limesurvey.imacat.idv.tw/learning/participants-example.csv>`_
 可下載參考，亦歡迎下載參閱
-`學習手冊的Sphinx/reStructuredText原始檔 <http://limesurvey.iro.ntnu.edu.tw/learning/learning-limesurvey-3.0.zip>`_
-。台師大問卷調查平台上，有
-`本學習手冊上的範例問卷 <http://limesurvey.iro.ntnu.edu.tw/index.php/161873>`_
+`學習手冊的Sphinx/reStructuredText原始檔 <http://limesurvey.imacat.idv.tw/learning/learning-limesurvey-4.0.zip>`_
+。另外有
+`本學習手冊上的範例問卷 <http://limesurvey.imacat.idv.tw/index.php/161873>`_
 ，歡迎參閱。
 
 更多LimeSurvey的進階功能，請參閱
-`LimeSurvey官方線上說明 <https://manual.limesurvey.org/LimeSurvey_Manual>`_ 。
+`LimeSurvey官方線上說明 <https://manual.limesurvey.org/>`_ 。
 
-註：舊版LimeSurvey 2，請參閱
+註：舊版LimeSurvey 3，請參閱
+`舊版LimeSurvey 3學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/>`_ ；
+舊版LimeSurvey 2，請參閱
 `舊版LimeSurvey 2學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/v2>`_ 。
 
 .. toctree::

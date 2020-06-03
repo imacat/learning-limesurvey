@@ -6,7 +6,7 @@
 
 .. figure:: images/03-02-02-del-question-01.png
     :alt: 點選左側欄題組右邊向下三角形，展開題組的問題
-    :scale: 60%
+    :scale: 48%
 
     點選左側欄題組右邊向下三角形，展開題組的問題
 
@@ -14,7 +14,7 @@
 
 .. figure:: images/03-02-02-del-question-02.png
     :alt: 點選要刪除的範例問題
-    :scale: 60%
+    :scale: 48%
 
     點選要刪除的範例問題
 
@@ -22,6 +22,6 @@
 
 .. figure:: images/03-02-02-del-question-03.png
     :alt: 在問題頁面上，點選上方的「刪除」刪除
-    :scale: 60%
+    :scale: 48%
 
     在問題頁面上，點選上方的「刪除」刪除

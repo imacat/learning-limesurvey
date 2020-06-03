@@ -6,7 +6,7 @@
 
 .. figure:: images/04-01-activate-01.png
     :alt: 按下「Active this survey」啟用問卷
-    :scale: 60%
+    :scale: 48%
 
     按下「Active this survey」啟用問卷
 
@@ -15,7 +15,7 @@
 
 .. figure:: images/04-01-activate-02.png
     :alt: 按下「Save & activate survey」確認啟用
-    :scale: 60%
+    :scale: 48%
 
     按下「Save & activate survey」確認啟用
 
@@ -23,6 +23,6 @@
 
 .. figure:: images/04-01-activate-03.png
     :alt: 封閉式問卷或開放式問卷
-    :scale: 60%
+    :scale: 48%
 
     封閉式問卷或開放式問卷

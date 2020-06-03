@@ -1,31 +1,12 @@
-diff -r -u a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesurvey.tex
---- a/_build/latex/learning-limesurvey.tex	2017-11-22 10:38:01.965578637 +0800
-+++ b/_build/latex/learning-limesurvey.tex	2017-11-22 10:39:03.497580780 +0800
-@@ -41,7 +41,7 @@
- \release{3.0}
- \author{楊士青}
- \newcommand{\sphinxlogo}{}
--\renewcommand{\releasename}{釋出}
+diff -ru a/_build/latex/learning-limesurvey.tex b/_build/latex/learning-limesurvey.tex
+--- a/_build/latex/learning-limesurvey.tex	2020-06-03 14:16:40.392466902 +0800
++++ b/_build/latex/learning-limesurvey.tex	2020-06-03 14:15:09.574274950 +0800
+@@ -64,7 +64,7 @@
+ \release{4.0}
+ \author{依瑪貓, 智新資通}
+ \newcommand{\sphinxlogo}{\vbox{}}
+-\renewcommand{\releasename}{發佈}
 +\renewcommand{\releasename}{版本}
  \makeindex
- 
- \makeatletter
-@@ -148,7 +148,9 @@
- 
  \begin{document}
  
-+\title{\huge 台師大問卷調查平台LimeSurvey學習手冊}
- \maketitle
-+\title{台師大問卷調查平台LimeSurvey學習手冊}
- \tableofcontents
- \phantomsection\label{index::doc}
- 
-@@ -200,7 +202,7 @@
- 
- \begin{threeparttable}
- \capstart\caption{問卷調查平台比較}\label{01-intro:id5}
--\noindent\begin{tabulary}{\linewidth}{|L|L|L|L|L|L|}
-+\noindent\begin{tabulary}{\linewidth}{|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|m{0.14\linewidth}|}
- \hline
- \textsf{\relax \unskip}\relax &\textsf{\relax 
- LimeSurvey

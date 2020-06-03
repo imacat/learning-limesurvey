@@ -16,7 +16,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
 # My local extension
 PROJNAME		= learning-limesurvey
-PROJVER			= 3.0
+PROJVER			= 4.0
 
 .PHONY: help
 help:

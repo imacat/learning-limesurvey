@@ -8,7 +8,7 @@
 
 .. figure:: images/04-04-stop-01.png
     :alt: 點選「停止問卷」
-    :scale: 60%
+    :scale: 48%
 
     點選「停止問卷」
 
@@ -17,7 +17,7 @@
 
 .. figure:: images/04-04-stop-02.png
     :alt: 「問卷到期」和「關閉問卷」
-    :scale: 60%
+    :scale: 48%
 
     「問卷到期」和「關閉問卷」
 
@@ -32,31 +32,31 @@
 我們可以事先設定施測到期日，到期自動結束。例如：選前一個月的民意調查，
 在投票日前30日中止；或是期中考前的調查，在期中考前的周末中止。
 
-從問卷左側欄「設定」分頁下，「Publication and access」進入後，即可設定
+從問卷左側欄「設定」分頁下，「發布及存取」進入後，即可設定
 問卷施測的開始和結束時間。點選彈出月曆，設定結束日期。你也可以點選彈出
 月曆左下方的時鐘圖案，設定結束時間。
 
 .. figure:: images/04-04-01-expire-01.png
-    :alt: 左側欄「設定」裏的「Publication and access」
-    :scale: 60%
+    :alt: 左側欄「設定」裏的「發布及存取」
+    :scale: 48%
 
-    左側欄「設定」裏的「Publication and access」
+    左側欄「設定」裏的「發布及存取」
 
 .. figure:: images/04-04-01-expire-02.png
     :alt: 點選彈出月曆，設定結束日期
-    :scale: 60%
+    :scale: 48%
 
     點選彈出月曆，設定結束日期
 
 .. figure:: images/04-04-01-expire-03.png
     :alt: 點選彈出月曆左下方的時鐘圖案
-    :scale: 60%
+    :scale: 48%
 
     點選彈出月曆左下方的時鐘圖案
 
 .. figure:: images/04-04-01-expire-04.png
     :alt: 設定結束時間
-    :scale: 60%
+    :scale: 48%
 
     設定結束時間
 
@@ -65,7 +65,7 @@
 
 .. figure:: images/04-04-01-expire-05.png
     :alt: 點選彈出月曆右下方的垃圾筒圖案，刪除問卷結束時間
-    :scale: 60%
+    :scale: 48%
 
     點選彈出月曆右下方的垃圾筒圖案，刪除問卷結束時間
 

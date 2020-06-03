@@ -1,28 +1,27 @@
 進入系統
 ========
 
-由校務行政入口網登入後，即可由中間「應用系統」區，找到「問卷調查平台」
-進入。
+由 LimeSurvey 管理員介面，輸入帳號密碼，即可登入。
 
-.. figure:: images/02-iportal.png
-    :alt: 校務行政入口網
-    :scale: 60%
+.. figure:: images/02-login.png
+    :alt: LimeSurvey 登入畫面
+    :scale: 48%
 
-    校務行政資訊入口網
+    LimeSurvey 登入畫面
 
-進入後，從左邊「建立一個新問卷」點進去，就可以建立新問卷了。
+進入後，點選「列出問卷」，進入問卷列表。
 
-.. figure:: images/02-start-02.png
-    :alt: LimeSurvey 登入後畫面
-    :scale: 60%
+.. figure:: images/02-admin.png
+    :alt: LimeSurvey 管理員介面
+    :scale: 48%
 
-    LimeSurvey 登入後畫面
+    LimeSurvey 管理員介面
 
-如果之前沒有建立任何問卷，系統會提醒您建立新問卷。
+在問卷列表的左上方，點選「建立新問卷」。
 
-.. figure:: images/02-start-01.png
-    :alt: 第一次登入 LimeSurvey 提醒建立新問卷
-    :scale: 60%
+.. figure:: images/02-surveys.png
+    :alt: 問卷列表
+    :scale: 48%
 
-    第一次登入 LimeSurvey 提醒建立新問卷
+    問卷列表
 

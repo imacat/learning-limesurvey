@@ -6,18 +6,18 @@
 
 .. figure:: images/03-02-03-gender-01.png
     :alt: 點選左側欄問卷結構上方的「增加新問題」
-    :scale: 60%
+    :scale: 48%
 
     點選左側欄問卷結構上方的「增加新問題」
 
 .. figure:: images/03-02-03-gender-02.png
     :alt: 問卷問題編輯頁面
-    :scale: 60%
+    :scale: 48%
 
     問卷問題編輯頁面
 
-「編號」是題目的代號，須由A-Z英文字母開始，可以用A-Z英文字母或0-9數字
-，不可重複。一般我們用q01代表第一題，q02代表第二題，依此類推。
+「編號」是題目的代號，須由A-Z英文字母開始，可以用A-Z英文字母或0-9數字，
+不可重複。我們用系統預設，就可以了。
 
 .. figure:: images/03-02-03-gender-02-01.png
     :alt: 問題的編號
@@ -25,8 +25,8 @@
 
     問題的編號
 
-在「問題」欄位，填上實際的問卷題目。第一題我們先問填答者的性別，請填
-上「1.請選擇您的性別。」。
+在「問題」欄位，填上實際的問卷題目。第一題我們先問參與者的性別，
+請填上「1.請選擇您的性別。」。
 
 .. figure:: images/03-02-03-gender-02-02.png
     :alt: 問題的主文
@@ -34,46 +34,46 @@
 
     問題的主文
 
-點按「題目類型」，會列出各種題型可選擇。點選題型，會有題型預覽。
+點按「題型」，會列出各種題型可選擇。點選題型，會有題型預覽。
 
 .. figure:: images/03-02-03-gender-02-03-01.png
     :alt: 題型選擇
-    :scale: 60%
+    :scale: 48%
 
     題型選擇
 
 .. figure:: images/03-02-03-gender-02-03-02.png
     :alt: 下拉式列表題型
-    :scale: 60%
+    :scale: 48%
 
     下拉式列表題型
 
 .. figure:: images/03-02-03-gender-02-03-03.png
     :alt: 單選題型
-    :scale: 60%
+    :scale: 48%
 
     單選題型
 
 .. figure:: images/03-02-03-gender-02-03-04.png
     :alt: 李克特氏五點量表題型
-    :scale: 60%
+    :scale: 48%
 
     李克特氏五點量表題型
 
 這一題我們題型選「其他類型問題」裏的「 :index:`性別 <題型; 性別>` 」。
-按右下方的「Select this」確定題型。
+按右下方的「Select」確定題型。
 
 .. figure:: images/03-02-03-gender-02-03.png
     :alt: 選擇性別題型
-    :scale: 60%
+    :scale: 48%
 
     選擇性別題型
 
-基本資料都是必答題，請點選開啟「必須回應」。按右上角「儲存」。
+基本資料都是必答題，請點選開啟「必填」。按右上角「儲存」。
 
 .. figure:: images/03-02-03-gender-02.png
     :alt: 問卷問題編輯頁面
-    :scale: 60%
+    :scale: 48%
 
     問卷問題編輯頁面
 
@@ -82,12 +82,12 @@
 
 .. figure:: images/03-02-03-gender-03.png
     :alt: 點選「Preview Question」
-    :scale: 60%
+    :scale: 48%
 
     點選「Preview Question」
 
 .. figure:: images/03-02-03-gender-04.png
     :alt: 性別問題預覽
-    :scale: 60%
+    :scale: 48%
 
     性別問題預覽
