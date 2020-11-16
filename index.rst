@@ -9,7 +9,7 @@ LimeSurvey學習手冊
 版權所有 |copy| 2017-2020 依瑪貓， 2017-2018 國立臺灣師範大學， 2020 智新資通。
 
 「LimeSurvey學習手冊」由
-`依瑪貓 <imacat@steps.com.tw>`_ 撰寫，採用
+`依瑪貓 <imacat@mail.imacat.idv.tw>`_ 撰寫，採用
 `創用 CC 姓名標示 4.0 Unported 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
 授權。
 

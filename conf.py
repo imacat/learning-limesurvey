@@ -50,7 +50,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'LimeSurvey學習手冊'
 copyright = u'2017-2018, 依瑪貓, 2017-2018, 國立臺灣師範大學, 2020, 智新資通'
-author = u'依瑪貓 <imacat@steps.com.tw>'
+author = u'依瑪貓 <imacat@mail.imacat.idv.tw>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
