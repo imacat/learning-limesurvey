@@ -63,7 +63,7 @@ CSV檔欄位如下：
 
     選「建立」「CSV檔案」從CSV檔匯入參與者名單
 
-可以參閱 `參與者CSV檔的範例 <http://limesurvey.imacat.idv.tw/learning/participants-example.csv>`_ 。
+可以參閱 `參與者CSV檔的範例 <https://limesurvey.imacat.idv.tw/learning/participants-example.csv>`_ 。
 
 .. figure:: images/04-03-01-participants-08.png
     :alt: 參與者CSV檔範例
