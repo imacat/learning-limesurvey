@@ -13,6 +13,10 @@
 `創用 CC 姓名標示 4.0 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
 授權。
 
+**請注意：** 這是適用於舊版LimeSurvey 3的舊版學習手冊。
+最新版LimeSurvey 4，請參閱
+`新版LimeSurvey 4學習手冊 <https://limesurvey.imacat.idv.tw/learning/>`_ 。
+
 本學習手冊以一個常用的教學研究範例，帶領學習者一步步操作，熟悉使用台師
 大問卷調查平台LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
 接跳到您有興趣的章節，不需要依序閱讀。
