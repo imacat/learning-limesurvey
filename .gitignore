@@ -1,3 +1,4 @@
 _build
 .idea
+make_all_sync
 odp
