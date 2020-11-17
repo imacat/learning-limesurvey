@@ -26,7 +26,7 @@ LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
 可供下載，並有
 `參與者名單CSV檔範例 <https://limesurvey.imacat.idv.tw/learning/participants-example.csv>`_
 可下載參考，亦歡迎下載參閱
-`學習手冊的Sphinx/reStructuredText原始檔 <https://limesurvey.imacat.idv.tw/learning/learning-limesurvey-4.0.zip>`_
+`學習手冊的Sphinx/reStructuredText原始檔 <https://limesurvey.imacat.idv.tw/learning/learning-limesurvey-4.1.zip>`_
 。另外有
 `本學習手冊上的範例問卷 <https://limesurvey.imacat.idv.tw/index.php/161873>`_
 ，歡迎參閱。
