@@ -22,7 +22,7 @@ copyright = '2017-2020, 依瑪貓, 2017-2018, 國立臺灣師範大學, 2020, �
 author = '依瑪貓, 智新資通'
 
 # The full version, including alpha/beta/rc tags
-release = '4.0'
+release = '4.1'
 
 
 # -- General configuration ---------------------------------------------------
