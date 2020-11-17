@@ -10,7 +10,7 @@ LimeSurvey學習手冊
 
 「LimeSurvey學習手冊」由
 `依瑪貓 <imacat@mail.imacat.idv.tw>`_ 撰寫，採用
-`創用 CC 姓名標示 4.0 Unported 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
+`創用 CC 姓名標示 4.0 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
 授權。
 
 本學習手冊以一個常用的問卷調查範例，帶領學習者一步步操作，熟悉使用
@@ -35,9 +35,9 @@ LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
 `LimeSurvey官方線上說明 <https://manual.limesurvey.org/>`_ 。
 
 註：舊版LimeSurvey 3，請參閱
-`舊版LimeSurvey 3學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/>`_ ；
+`舊版LimeSurvey 3學習手冊 <https://limesurvey.imacat.idv.tw/learning/v3/>`_ ；
 舊版LimeSurvey 2，請參閱
-`舊版LimeSurvey 2學習手冊 <http://limesurvey.iro.ntnu.edu.tw/learning/v2>`_ 。
+`舊版LimeSurvey 2學習手冊 <https://limesurvey.imacat.idv.tw/learning/v2/>`_ 。
 
 .. toctree::
     :caption: 目錄
