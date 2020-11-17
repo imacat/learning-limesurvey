@@ -54,14 +54,14 @@ LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
 
 .. only:: html
 
-	.. toctree::
-		:caption: 附錄
-		
-		apx-01-copy
-		apx-02-ab-testing
-	
-    索引
-    ====
-    
-    * :ref:`genindex`
-    * :ref:`search`
+   .. toctree::
+      :caption: 附錄
+
+      apx-01-copy
+      apx-02-ab-testing
+
+   索引
+   ====
+
+   * :ref:`genindex`
+   * :ref:`search`
