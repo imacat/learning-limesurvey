@@ -64,7 +64,7 @@ CSV檔欄位如下：
 
     選「建立」「CSV檔案」從CSV檔匯入填答者名單
 
-可以參閱 `填答者CSV檔的範例 <http://limesurvey.iro.ntnu.edu.tw/learning/participants-example.csv>`_ 。
+可以參閱 `填答者CSV檔的範例 <https://limesurvey.imacat.idv.tw/learning/v3/participants-example.csv>`_ 。
 
 .. figure:: images/04-03-01-participants-08.png
     :alt: 填答者CSV檔範例
