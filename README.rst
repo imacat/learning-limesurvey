@@ -1,40 +1,38 @@
-LimeSurvey學習手冊
-====================================
+Learning LimeSurvey
+===================
 
-版權所有 |copy| 2017-2020 依瑪貓， 2017-2018 國立臺灣師範大學， 2020 智新資通。
+*«Learning LimeSurvey»* is a `LimeSurvey <https://www.limesurvey.org/>`_ tutorial written in Chinese.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://www.sphinx-doc.org/>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
 
-「LimeSurvey學習手冊」由
-`依瑪貓 <imacat@mail.imacat.idv.tw>`_ 撰寫，採用
-`創用 CC 姓名標示 4.0 授權條款 <https://creativecommons.org/licenses/by/4.0/>`_
-授權。
+*«Learning LimeSurvey»* is written by `imacat <imacat@mail.imacat.idv.tw>`_.  Read the `tutorial (Chinese) <https://limesurvey.imacat.idv.tw/learning/>`_ online, or check the `GitHub source project <https://github.com/imacat/learning-limesurvey>`_.
 
-本學習手冊以一個常用的問卷調查範例，帶領學習者一步步操作，熟悉使用
-LimeSurvey的常用功能。全部研讀完畢約需兩小時。您也可以直
-接跳到您有興趣的章節，不需要依序閱讀。
 
-本學習手冊有
-`線上版學習手冊 <https://limesurvey.imacat.idv.tw/learning/>`_
-，也提供雙面印刷的
-`PDF版學習手冊 <https://limesurvey.imacat.idv.tw/learning/learning-limesurvey.pdf>`_
-，及適合手機平板閱讀的
-`EPUB學習手冊電子書 <https://limesurvey.imacat.idv.tw/learning/learning-limesurvey.epub>`_
-可供下載，並有
-`參與者名單CSV檔範例 <https://limesurvey.imacat.idv.tw/learning/participants-example.csv>`_
-可下載參考。本學習手冊以
-`Sphinx/reStructuredText <https://www.sphinx-doc.org/>`_
-撰寫，歡迎參閱
-`GitHub上的開源專案 <https://github.com/imacat/learning-limesurvey>`_ ，或下載
-`原始檔 <https://limesurvey.imacat.idv.tw/learning/learning-limesurvey-4.1.zip>`_
-。另外有
-`本學習手冊上的範例問卷 <https://limesurvey.imacat.idv.tw/index.php/161873>`_
-，歡迎參閱。
+HTML, PDF, and Other Formats
+----------------------------
 
-更多LimeSurvey的進階功能，請參閱
-`LimeSurvey官方線上說明 <https://manual.limesurvey.org/>`_ 。
+This tutorial can be converted into various formats.  To do so, you need to install Sphinx first.  On Debian/Ubuntu::
 
-註：舊版LimeSurvey 3，請參閱
-`舊版LimeSurvey 3學習手冊 <https://limesurvey.imacat.idv.tw/learning/v3/>`_ ；
-舊版LimeSurvey 2，請參閱
-`舊版LimeSurvey 2學習手冊 <https://limesurvey.imacat.idv.tw/learning/v2/>`_ 。
+  # sudo apt install python-sphinx
+
+Or, on Red Hat/Fedora/CentOS::
+
+  # sudo yum install python-sphinx
+
+Or use ``pip``::
+
+  # pip install sphinx
+
+After installation, run::
+
+  # make help
+
+to see the available conversion commands.  For example, to generate HTML, PDF, ePUB, manpage, and Texinfo documents respectively::
+
+  # make html
+  # make latexpdf
+  # make epub
+  # make man
+  # make texinfo
+
+Copyright |copy| 2017-2020 imacat, 2017-2018 National Taiwan Normal University, 2020 Steps Inc.  This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_.
 
 .. |copy| unicode:: 0xA9 .. copyright sign
