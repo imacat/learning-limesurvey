@@ -1,7 +1,7 @@
 Learning LimeSurvey
 ===================
 
-*«Learning LimeSurvey»* is a `LimeSurvey <https://www.limesurvey.org/>`_ tutorial written in Chinese.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
+*«Learning LimeSurvey»* is a Chinese `LimeSurvey <https://www.limesurvey.org/>`_ tutorial.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
 
 *«Learning LimeSurvey»* is written by `imacat <imacat@mail.imacat.idv.tw>`_.  Read the `tutorial (Chinese) <https://limesurvey.imacat.idv.tw/learning/>`_ online, or check the `GitHub source project <https://github.com/imacat/learning-limesurvey>`_.
 
