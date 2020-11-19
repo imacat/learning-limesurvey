@@ -1,11 +1,11 @@
-Learning LimeSurvey for the National Taiwan Normal University LimeSurvey Service
-================================================================================
+Learning LimeSurvey — The Survey Service in National Taiwan Normal University
+==============================================================================
 
 **WARNING**: This is for LimeSurvey 2 and is outdated.  Please check the `current version <https://github.com/imacat/learning-limesurvey>`_.
 
-*«Learning LimeSurvey for the National Taiwan Normal University LimeSurvey Service»* is a `LimeSurvey <https://www.limesurvey.org/>`_ tutorial written in Chinese.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
+*«Learning LimeSurvey — The Survey Service in National Taiwan Normal University»* is a Chinese `LimeSurvey <https://www.limesurvey.org/>`_ tutorial.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
 
-*«Learning LimeSurvey for the National Taiwan Normal University LimeSurvey Service»* is written by `imacat <imacat@ntnu.edu.tw>`_.  Read the `tutorial (Chinese) <https://limesurvey.imacat.idv.tw/learning/v2/>`_ online, or check the `GitHub source project <https://github.com/imacat/learning-limesurvey>`_.
+*«Learning LimeSurvey — The Survey Service in National Taiwan Normal University»* is written by `imacat <imacat@ntnu.edu.tw>`_.  Read the `tutorial (Chinese) <https://limesurvey.imacat.idv.tw/learning/v2/>`_ online, or check the `GitHub source project <https://github.com/imacat/learning-limesurvey>`_.
 
 HTML, PDF, and Other Formats
 ----------------------------
