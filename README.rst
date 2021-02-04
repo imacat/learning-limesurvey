@@ -1,11 +1,28 @@
 Learning LimeSurvey — The Survey Service in National Taiwan Normal University
 =============================================================================
 
-**WARNING**: This is for LimeSurvey 3 and is outdated.  Please check the `current version <https://github.com/imacat/learning-limesurvey>`_.
+**WARNING**: This is for LimeSurvey 3 and is outdated.  Please check
+the `current version`_.
 
-*«Learning LimeSurvey — The Survey Service in National Taiwan Normal University»* is a Chinese `LimeSurvey <https://www.limesurvey.org/>`_ tutorial.  It features `project-based learning (PBL) <https://en.wikipedia.org/wiki/Project-based_learning>`_:  By creating a simple yet practical survey, it walks through the frequently-used features of LimeSurvey.  It is written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ with `Sphinx <https://www.sphinx-doc.org/>`_ extension.
+*«Learning LimeSurvey — The Survey Service in National Taiwan Normal
+University»* is a Chinese LimeSurvey_ tutorial.  It features
+`project-based learning`_:  By creating a simple yet practical survey,
+it walks through the frequently-used features of LimeSurvey.  It is
+written in reStructuredText_ with Sphinx_ extension.
 
-*«Learning LimeSurvey — The Survey Service in National Taiwan Normal University»* is written by `imacat <imacat@ntnu.edu.tw>`_.  Read the `tutorial (Chinese) <https://limesurvey.imacat.idv.tw/learning/v3/>`_ online, or check the `GitHub source project <https://github.com/imacat/learning-limesurvey>`_.
+*«Learning LimeSurvey — The Survey Service in National Taiwan Normal
+University»* is written by imacat_.  Read the tutorial_ (Chinese)
+online, or check the `GitHub source documents`_.
+
+.. _current version: https://github.com/imacat/learning-limesurvey
+.. _LimeSurvey: https://www.limesurvey.org
+.. _project-based learning: https://en.wikipedia.org/wiki/Project-based_learning
+.. _reStructuredText: https://docutils.sourceforge.io/rst.html
+.. _Sphinx: https://www.sphinx-doc.org
+.. _imacat: imacat@ntnu.edu.tw
+.. _tutorial: https://limesurvey.imacat.idv.tw/learning/v3/
+.. _GitHub source documents: https://github.com/imacat/learning-limesurvey
+
 
 HTML, PDF, and Other Formats
 ----------------------------
@@ -34,6 +51,10 @@ to see the available conversion commands.  For example, to generate HTML, PDF, e
   # make man
   # make texinfo
 
-Copyright |copy| 2017-2020 imacat, 2017-2018 National Taiwan Normal University.  This work is licensed under a `Creative Commons Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_.
+Copyright |copy| 2017-2021 imacat, 2017-2018 National Taiwan Normal
+University.  This work is licensed under a
+`Creative Commons Attribution 4.0 International License`_.
+
+.. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
 
 .. |copy| unicode:: 0xA9 .. copyright sign
