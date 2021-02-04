@@ -5,9 +5,11 @@ LimeSurvey簡介
 LimeSurvey簡介
 --------------
 
-`LimeSurvey <https://www.limesurvey.org/>`_ 是開源自由軟體的問卷調查
+LimeSurvey_ 是開源自由軟體的問卷調查
 系統。自2003年初版至今，歷經17年82個語言的全球使用者開發使用，安全穩定，
 是最受歡迎的開源問卷調查系統。
+
+.. _LimeSurvey: https://www.limesurvey.org
 
 
 與其他問卷調查平台比較

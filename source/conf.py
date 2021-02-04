@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'LimeSurvey學習手冊'
-copyright = '2017-2020, 依瑪貓, 2017-2018, 國立臺灣師範大學, 2020, 智新資通'
+copyright = '2017-2021, 依瑪貓, 2017-2018, 國立臺灣師範大學, 2020-2021, 智新資通'
 author = '依瑪貓, 智新資通'
 
 # The full version, including alpha/beta/rc tags
