@@ -37,7 +37,7 @@
 .. _填答者名單CSV檔範例: https://limesurvey.imacat.idv.tw/learning/v3/participants-example.csv
 .. _Sphinx/reStructuredText: https://www.sphinx-doc.org
 .. _GitHub上的開源專案: https://github.com/imacat/learning-limesurvey
-.. _原始檔: https://limesurvey.imacat.idv.tw/learning/v3/learning-limesurvey-3.1.zip
+.. _原始檔: https://limesurvey.imacat.idv.tw/learning/v3/learning-limesurvey-3.2.zip
 .. _本學習手冊上的範例問卷: https://limesurvey.imacat.idv.tw/161873
 .. _LimeSurvey官方線上說明: https://manual.limesurvey.org/LimeSurvey_Manual
 .. _舊版LimeSurvey 2學習手冊: https://limesurvey.imacat.idv.tw/learning/v2/

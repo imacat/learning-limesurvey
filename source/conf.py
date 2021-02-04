@@ -22,7 +22,7 @@ copyright = '2017-2021, 楊士青, 2017-2018, 國立臺灣師範大學'
 author = '楊士青, 國立臺灣師範大學'
 
 # The full version, including alpha/beta/rc tags
-release = '3.1'
+release = '3.2'
 
 
 # -- General configuration ---------------------------------------------------
