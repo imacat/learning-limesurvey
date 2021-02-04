@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '台師大問卷調查平台LimeSurvey學習手冊'
-copyright = '2017-2020, 楊士青, 2017-2018, 國立臺灣師範大學'
+copyright = '2017-2021, 楊士青, 2017-2018, 國立臺灣師範大學'
 author = '楊士青, 國立臺灣師範大學'
 
 # The full version, including alpha/beta/rc tags
